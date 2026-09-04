@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/CFyGnTjUqw4AAAAd/dinosaur.gif"
        width="650"
-       height="70"
+       height="20"
        alt="Dinosaur Banner">
 </p>
 
@@ -9,13 +9,11 @@
 <h1 align="center">Hi, I'm Fenny</h1>
 
 <p align="center">
+  <img src="https://th.bing.com/th/id/ODF.SWId9aBgwQh4GYX8Nki9BA?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"
+       width="32"
+       alt="Python">
+  <br>
   I use Python
-</p>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/8oox5-cM_2kAAAAC/python.gif"
-       width="350"
-       alt="Python animation">
 </p>
 
 
