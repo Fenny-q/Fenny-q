@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/CFyGnTjUqw4AAAAd/dinosaur.gif"
        width="650"
-       height="220"
+       height="100"
        alt="Dinosaur Banner">
 </p>
 
