@@ -20,7 +20,7 @@
     <td align="center" width="100">
       <img src="https://luau.org/_astro/luau-logo.DU3ngeWd.svg"
            width="45" height="45" alt="Luau"><br>
-      <strong>Luau</strong>
+      <strong>Lua (Luau)</strong>
     </td>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
