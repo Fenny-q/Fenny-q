@@ -6,29 +6,26 @@
 </p>
 
 
-<h1 align="center">Hi, I'm Fenny</h1>
+<br>
+<br>
+
 
 <table align="center">
   <tr>
-    <td align="center" width="150">
-      <img src="https://th.bing.com/th/id/ODF.SWId9aBgwQh4GYX8Nki9BA?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"
-           width="40" alt="Python">
-      <br>
-      <b>Python</b>
+    <td align="center" width="100">
+      <img src="https://th.bing.com/th/id/ODF.SWId9aBgwQh4GYX8Nki9BA?w=32&amp;h=32&amp;qlt=90&amp;pcl=fffffa&amp;o=6&amp;pid=1.2"
+           width="45" alt="Python"><br>
+      <strong>Python</strong>
     </td>
-
-    <td align="center" width="150">
+    <td align="center" width="100">
       <img src="https://luau.org/_astro/luau-logo.DU3ngeWd.svg"
-           width="40" height="40" alt="Luau">
-      <br>
-      <b>Luau</b>
+           width="45" height="45" alt="Luau"><br>
+      <strong>Luau</strong>
     </td>
-
-    <td align="center" width="150">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-           width="40" alt="Java">
-      <br>
-      <b>Java</b>
+           width="45" height="45" alt="Java"><br>
+      <strong>Java</strong>
     </td>
   </tr>
 </table>
@@ -36,6 +33,10 @@
 <p align="center">
   I develop with Python, Luau, and a little Java.
 </p>
+
+
+<br>
+<br>
 
 
 <p align="center">
